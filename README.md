@@ -1,0 +1,2 @@
+- Developed a Slack chat backup mechanism using Slack API.
+- Scheduling functionality to store backup into drives
